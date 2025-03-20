@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="2-K37lG_qAuhPMhZeAws">
-    <mxGraphModel dx="1075" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="237" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,13 +140,13 @@
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-148" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;开始训练&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="281.85" y="-52" width="78" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="_XnJlNF0hF8tQ8OMko_6-156" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="_XnJlNF0hF8tQ8OMko_6-149">
+        <mxCell id="_XnJlNF0hF8tQ8OMko_6-172" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_XnJlNF0hF8tQ8OMko_6-149">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="322.27" y="1060" as="sourcePoint" />
+            <mxPoint x="322.52941176470586" y="927.5030869876637" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-149" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;返回return_list&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="249.86" y="1083" width="142.28" height="49" as="geometry" />
+          <mxGeometry x="251.35000000000002" y="951" width="142.28" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-151" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -155,13 +155,13 @@
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-152" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="322.27" y="1060" as="sourcePoint" />
-            <mxPoint x="601.27" y="1060" as="targetPoint" />
+            <mxPoint x="322" y="928" as="sourcePoint" />
+            <mxPoint x="601" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-153" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="601.27" y="1060" as="sourcePoint" />
+            <mxPoint x="601" y="928" as="sourcePoint" />
             <mxPoint x="605.27" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -180,6 +180,9 @@
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-113" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_XnJlNF0hF8tQ8OMko_6-105" target="_XnJlNF0hF8tQ8OMko_6-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_XnJlNF0hF8tQ8OMko_6-171" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_XnJlNF0hF8tQ8OMko_6-83" target="_XnJlNF0hF8tQ8OMko_6-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-83" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;初始化epside_return、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;done、truncated&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，重置环境&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="126.86000000000001" y="240" width="388" height="38" as="geometry" />
         </mxCell>
@@ -190,31 +193,16 @@
           <mxGeometry x="182.18" y="305" width="277.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-96" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;从经验回收池采样6类数据并创建transition_dict&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;调用agent.update(transition_dict)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="143.15" y="756" width="356" height="52" as="geometry" />
+          <mxGeometry x="143.8" y="691" width="356" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_XnJlNF0hF8tQ8OMko_6-97" target="_XnJlNF0hF8tQ8OMko_6-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-97" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;添加episode_return到return_list&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="177.69" y="883" width="286.9" height="38" as="geometry" />
+          <mxGeometry x="178.35" y="806" width="286.9" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-115" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;更新进度条&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="273.80999999999995" y="957" width="94.64" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="_XnJlNF0hF8tQ8OMko_6-126" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460.23999999999995" y="335.52" width="68.31" height="349.48" as="geometry" />
-        </mxCell>
-        <mxCell id="_XnJlNF0hF8tQ8OMko_6-123" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="_XnJlNF0hF8tQ8OMko_6-126">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="0.22971912457977933" as="targetPoint" />
-            <mxPoint x="68.31" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_XnJlNF0hF8tQ8OMko_6-125" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="_XnJlNF0hF8tQ8OMko_6-126">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="67.66339763025644" y="349.48" as="sourcePoint" />
-            <mxPoint x="67.66339763025644" y="0.4800000000000182" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="274.46999999999997" y="880" width="94.64" height="31" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-73" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;调用take_action函数由当前状态选择动作&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="170.92000000000002" y="385" width="301.75" height="51" as="geometry" />
@@ -223,13 +211,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-74" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;该动作与环境交互&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="252.3" y="462" width="139" height="40" as="geometry" />
+          <mxGeometry x="251.35000000000002" y="457" width="139" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-95" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_XnJlNF0hF8tQ8OMko_6-75" target="_XnJlNF0hF8tQ8OMko_6-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-75" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;保存经验至经验回放池，更新状态，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;计入reward至episode_return&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Poppins;align=center;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="201.3" y="531" width="241" height="44" as="geometry" />
+          <mxGeometry x="201.3" y="518" width="241" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-78" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -245,32 +233,26 @@
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_XnJlNF0hF8tQ8OMko_6-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.79790322580664" y="723" as="targetPoint" />
+            <mxPoint x="322" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-85" value="&lt;font face=&quot;JetBrains Mono, Consolas, Courier New, monospace, Consolas, Courier New, monospace&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;经验回放池样本数 &amp;gt; 1000&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="182.83" y="617" width="277.93" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_XnJlNF0hF8tQ8OMko_6-124" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460.89" y="651.8699999999999" as="sourcePoint" />
-            <mxPoint x="528.5533976302564" y="652" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="182.83" y="590" width="277.93" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-143" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_XnJlNF0hF8tQ8OMko_6-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.55" y="852" as="sourcePoint" />
+            <mxPoint x="322.21000000000004" y="775" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-139" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91" y="852" as="sourcePoint" />
-            <mxPoint x="321.55" y="852" as="targetPoint" />
+            <mxPoint x="93" y="776" as="sourcePoint" />
+            <mxPoint x="323.55" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XnJlNF0hF8tQ8OMko_6-140" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91.55" y="852" as="sourcePoint" />
+            <mxPoint x="92" y="777" as="sourcePoint" />
             <mxPoint x="92.55" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -278,6 +260,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="91.55" y="336.24" as="sourcePoint" />
             <mxPoint x="182.31" y="335.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XnJlNF0hF8tQ8OMko_6-123" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.7597191245797" y="334.91" as="targetPoint" />
+            <mxPoint x="528.8399999999999" y="334.91" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XnJlNF0hF8tQ8OMko_6-125" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528.76" y="624.48" as="sourcePoint" />
+            <mxPoint x="529" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XnJlNF0hF8tQ8OMko_6-124" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="624.4799999999999" as="sourcePoint" />
+            <mxPoint x="528.6633976302564" y="624.61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
