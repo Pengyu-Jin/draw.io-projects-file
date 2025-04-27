@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GGjMn6qALw72xlHJH-n7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;" vertex="1" parent="1">
+        <mxCell id="GGjMn6qALw72xlHJH-n7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-176" y="-233" width="570" height="277" as="geometry" />
         </mxCell>
         <mxCell id="5l3IJHximAr6t7apTjkR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5l3IJHximAr6t7apTjkR-1" target="5l3IJHximAr6t7apTjkR-3" edge="1">
@@ -76,16 +76,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5l3IJHximAr6t7apTjkR-38" value="$$Q_{\theta}(s,a))$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="5l3IJHximAr6t7apTjkR-38" value="$$Q_{\omega}(s,a))$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="264" y="-201" width="79" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="5l3IJHximAr6t7apTjkR-39" value="$$Q_{\theta^-}(s&#39;,a&#39;))$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="5l3IJHximAr6t7apTjkR-39" value="$$Q_{\omega^-}(s&#39;,a&#39;))$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="188" y="-62" width="135" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="5l3IJHximAr6t7apTjkR-40" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;;&quot;&gt;$$\theta \rightarrow \theta^-$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="5l3IJHximAr6t7apTjkR-40" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;;&quot;&gt;$$\omega \rightarrow \omega^-$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2" y="-96" width="108" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="GGjMn6qALw72xlHJH-n7-240" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: &amp;quot;JetBrains Mono&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;EMS智能体&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="GGjMn6qALw72xlHJH-n7-240" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: &amp;quot;JetBrains Mono&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;EMS智能体&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-142" y="-226" width="122" height="41" as="geometry" />
         </mxCell>
       </root>
