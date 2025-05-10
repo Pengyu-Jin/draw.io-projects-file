@@ -121,7 +121,7 @@
             <mxPoint x="-15" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSi083CCrTY6KWD6vQjr-6" value="若\(dim(\mathcal{A}) \geq 5\) 并且&lt;div&gt;要精细控制某个模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillStyle=hatch;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="fSi083CCrTY6KWD6vQjr-6" value="若\(dim(\mathcal{A}) \geq 5\) 并且&lt;div&gt;要精细控制某个模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillStyle=hatch;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="316.75" width="205" height="81" as="geometry" />
         </mxCell>
         <mxCell id="fSi083CCrTY6KWD6vQjr-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSi083CCrTY6KWD6vQjr-7" target="fSi083CCrTY6KWD6vQjr-37">
@@ -140,7 +140,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSi083CCrTY6KWD6vQjr-10" value="若考虑不同的奖励函数设计思路" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fSi083CCrTY6KWD6vQjr-10" value="若考虑不同的奖励函数设计思路" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="218.5" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fSi083CCrTY6KWD6vQjr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSi083CCrTY6KWD6vQjr-12" target="fSi083CCrTY6KWD6vQjr-24">
@@ -153,7 +153,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fSi083CCrTY6KWD6vQjr-14" value="奖励函数 \( \gets \) 定制化改造设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="238.5" width="175.5" height="40" as="geometry" />
+          <mxGeometry x="1110" y="238.5" width="175.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fSi083CCrTY6KWD6vQjr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSi083CCrTY6KWD6vQjr-16" target="fSi083CCrTY6KWD6vQjr-6">
           <mxGeometry relative="1" as="geometry" />
