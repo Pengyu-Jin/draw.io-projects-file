@@ -357,19 +357,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-11" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;If different reward function design strategies are considered&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="820" y="121" width="245" height="101.5" as="geometry" />
+          <mxGeometry x="820" y="131" width="245" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iE7CltP8i5gkBI3-BySA-13" target="iE7CltP8i5gkBI3-BySA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-13" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Comic Sans MS&quot;&gt;Multi-Objective Weighted Design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="842.5" y="258.68" width="200" height="49" as="geometry" />
+          <mxGeometry x="842.5" y="270" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iE7CltP8i5gkBI3-BySA-15" target="iE7CltP8i5gkBI3-BySA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-15" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Comic Sans MS&quot;&gt;Customized Reformulation Design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="141" width="130" height="61.5" as="geometry" />
+          <mxGeometry x="1130" y="151" width="130" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="WGFnlz0-YoD_kSgrx5re-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iE7CltP8i5gkBI3-BySA-17" target="iE7CltP8i5gkBI3-BySA-21">
           <mxGeometry relative="1" as="geometry" />
@@ -406,7 +406,7 @@
           <mxGeometry x="838.75" y="346.43" width="207.5" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-26" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Step 5: Initiate Training Phase&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="858.75" y="450" width="167.5" height="49" as="geometry" />
+          <mxGeometry x="858.75" y="449.68" width="167.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iE7CltP8i5gkBI3-BySA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iE7CltP8i5gkBI3-BySA-28" target="iE7CltP8i5gkBI3-BySA-31">
           <mxGeometry relative="1" as="geometry" />
