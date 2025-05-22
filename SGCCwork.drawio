@@ -28,9 +28,6 @@
         <mxCell id="u4FmqP_CyHzq_SAG-YZG-5" value="&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;检查优化条件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u4FmqP_CyHzq_SAG-YZG-6" value="状态更新阶段：&#xa;&#xa;更新队列长度、充电桩状态等参数。&#xa;&#xa;优化触发条件：&#xa;&#xa;若事件为关键事件（如队列溢出、充电桩故障）或达到滚动窗口周期，启动优化计算。&#xa;&#xa;策略计算阶段：&#xa;&#xa;基于当前状态和预测的未来事件（如预约车辆到达），求解优化模型，生成充电桩分配方案。&#xa;&#xa;指令执行阶段：&#xa;&#xa;向充电桩发送启停指令，向用户发送引导信息（如排队预计时间）。&#xa;&#xa;事件触发 → 更新系统状态 → 检查优化条件 → 执行策略计算 → 输出调度指令  &#xa;      ↑                                  ↓  &#xa;      └────── 滚动时域更新 ←──────┘" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="100" width="520" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="u4FmqP_CyHzq_SAG-YZG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4FmqP_CyHzq_SAG-YZG-7" target="u4FmqP_CyHzq_SAG-YZG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
