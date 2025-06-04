@@ -1,11 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="8A-6LLFB2WcYGKclbAw4">
-    <mxGraphModel dx="1389" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="270" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QZK2HS5chqRn9Le4Sm2T-1" value="$\theta^T x$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="170" height="90" as="geometry" />
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZK2HS5chqRn9Le4Sm2T-1" target="QZK2HS5chqRn9Le4Sm2T-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\theta^T x\)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-2" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;Linear Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QZK2HS5chqRn9Le4Sm2T-3" target="QZK2HS5chqRn9Le4Sm2T-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(x\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="285" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;\[b(y)=\dots \]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;\[a(y)= \dots\]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;\[T(y)=\dots \]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="239.38" width="110" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-6" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Exponential&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Family&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;Distribution&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\eta\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;\[E[y; \eta] = E[y;\theta^T x] = h_{\theta}(x)\]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="340" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;\[\max_{\theta} \log p(y^{(i)}; \theta^T x^{(i)})\]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.147;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QZK2HS5chqRn9Le4Sm2T-5" target="QZK2HS5chqRn9Le4Sm2T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZK2HS5chqRn9Le4Sm2T-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.121;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QZK2HS5chqRn9Le4Sm2T-5" target="QZK2HS5chqRn9Le4Sm2T-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
