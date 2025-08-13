@@ -109,6 +109,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kjv4vyTBPtws4vWYZQJM-42" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kjv4vyTBPtws4vWYZQJM-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="400" />
+              <mxPoint x="320" y="450" />
+              <mxPoint x="320" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
