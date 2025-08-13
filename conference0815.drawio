@@ -79,7 +79,7 @@
           <mxGeometry x="740" y="175" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kjv4vyTBPtws4vWYZQJM-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Battery ESS&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="794.4" y="610" width="110" height="40" as="geometry" />
+          <mxGeometry x="784.4" y="610" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kjv4vyTBPtws4vWYZQJM-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Load&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="950" y="360" width="60" height="40" as="geometry" />
