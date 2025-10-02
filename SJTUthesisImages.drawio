@@ -88,12 +88,6 @@
         <mxCell id="vO9aaUbzrKcqEHiHucuZ-24" value="无并网点&lt;div&gt;资源聚合&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vO9aaUbzrKcqEHiHucuZ-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="195" as="sourcePoint" />
-            <mxPoint x="1050" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vO9aaUbzrKcqEHiHucuZ-27" value="" style="endArrow=oval;html=1;rounded=0;strokeWidth=1.5;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395" y="310" as="sourcePoint" />
