@@ -461,7 +461,7 @@
             <mxPoint x="-369" y="-121.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-79" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Heat Load&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-79" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;热负荷&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="-364" y="-153" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hoO8C4FrOdUA0wyWuVMZ-80" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;startArrow=block;startFill=1;" edge="1" parent="1">
@@ -493,6 +493,56 @@
             <mxPoint x="-780" y="-680" as="targetPoint" />
             <mxPoint x="-780.09" y="-580" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-87" value="&lt;font&gt;&lt;b&gt;馈线 A&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="-590" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-89" value="&lt;font&gt;&lt;b&gt;馈线 B&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-90" value="&lt;font&gt;&lt;b&gt;馈线 C&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="-40" as="targetPoint" />
+            <mxPoint x="-730" y="-100.6542056074768" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-719.5" y="-100" />
+              <mxPoint x="-659.5" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-91" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;传统负荷&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-120" width="139.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-92" value="&lt;font&gt;&lt;b&gt;公共连接点&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="-240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-97" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=2;dashed=1;" edge="1" parent="1" source="hoO8C4FrOdUA0wyWuVMZ-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-460" y="-350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=2;dashed=1;" edge="1" parent="1" source="hoO8C4FrOdUA0wyWuVMZ-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="-480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="-460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;敏感负荷&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-497" y="-421" width="139.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-94" value="&lt;font&gt;&lt;b&gt;分离装置&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="-270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoO8C4FrOdUA0wyWuVMZ-100" value="&lt;font&gt;&lt;b&gt;能量管理&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="-670" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
