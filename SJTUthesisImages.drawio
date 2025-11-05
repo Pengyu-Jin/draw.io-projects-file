@@ -845,6 +845,18 @@
             <mxPoint x="-110" y="-228.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-20" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;风力发电&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry x="-900" y="-50.00000000000006" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-21" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;负荷&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry x="-675" y="-50.00000000000006" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-22" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;微型燃气汽轮机&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry x="-450" y="-50.00000000000006" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-23" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;储能系统&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry x="-214.9" y="-50.00000000000006" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
