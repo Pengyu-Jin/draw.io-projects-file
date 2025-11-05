@@ -749,6 +749,18 @@
         <mxCell id="mppvJXRaZB48xT8IWHUR-3" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;光伏发电&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
           <mxGeometry x="-1110.02" y="-70.00000000000006" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-765.98" y="-770.63" as="sourcePoint" />
+            <mxPoint x="-595.98" y="-770.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mppvJXRaZB48xT8IWHUR-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;" edge="1" parent="uYAAl2G3LdwFVbCDSTGX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-680" as="sourcePoint" />
+            <mxPoint x="-480" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
