@@ -1009,7 +1009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="algo-frame" id="ssnoS0wAA3uWf5liLt6b">
-    <mxGraphModel dx="1943" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="ikZ2PiEBYVMAMpDcxrEd-0" />
         <mxCell id="ikZ2PiEBYVMAMpDcxrEd-1" parent="ikZ2PiEBYVMAMpDcxrEd-0" />
@@ -1057,11 +1057,26 @@
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;几何规划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="-140" y="180" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ikZ2PiEBYVMAMpDcxrEd-1" target="hslsFo4BU0hcX-IPR2Eh-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="260.051948051948" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;二次规划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="-140" y="240" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ikZ2PiEBYVMAMpDcxrEd-1" target="hslsFo4BU0hcX-IPR2Eh-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="320.051948051948" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;凸规划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="-140" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="ikZ2PiEBYVMAMpDcxrEd-1" target="hslsFo4BU0hcX-IPR2Eh-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="380.051948051948" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;线性规划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="-140" y="360" width="90" height="40" as="geometry" />
