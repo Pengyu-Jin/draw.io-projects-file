@@ -1009,7 +1009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="algo-frame" id="ssnoS0wAA3uWf5liLt6b">
-    <mxGraphModel dx="1558" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="ikZ2PiEBYVMAMpDcxrEd-0" />
         <mxCell id="ikZ2PiEBYVMAMpDcxrEd-1" parent="ikZ2PiEBYVMAMpDcxrEd-0" />
@@ -1150,7 +1150,10 @@
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于群体智能的算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="210" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hslsFo4BU0hcX-IPR2Eh-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于轨迹的算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="ikZ2PiEBYVMAMpDcxrEd-1" source="hslsFo4BU0hcX-IPR2Eh-38" target="hslsFo4BU0hcX-IPR2Eh-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于轨迹路线的算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
           <mxGeometry x="440" y="140" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hslsFo4BU0hcX-IPR2Eh-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;粒子群算法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
@@ -1206,8 +1209,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hslsFo4BU0hcX-IPR2Eh-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;遗传算法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
-          <mxGeometry x="550" y="220" width="120" height="50" as="geometry" />
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ikZ2PiEBYVMAMpDcxrEd-1" target="hslsFo4BU0hcX-IPR2Eh-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="275.0000000000001" as="targetPoint" />
+            <mxPoint x="495" y="275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模拟退火算法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
+          <mxGeometry x="550" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hslsFo4BU0hcX-IPR2Eh-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;禁忌搜索&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="ikZ2PiEBYVMAMpDcxrEd-1">
+          <mxGeometry x="550" y="325" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
