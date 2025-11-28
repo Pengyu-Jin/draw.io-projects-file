@@ -1353,7 +1353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="agent+ q&amp;dqn" id="QXsO0567nB2g21Ao5pwt">
-    <mxGraphModel dx="2715" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1789" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="gRSPodR7C31MfeeyLflA-0" />
         <mxCell id="gRSPodR7C31MfeeyLflA-1" parent="gRSPodR7C31MfeeyLflA-0" />
@@ -1480,12 +1480,12 @@
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-295" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-295" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{11}\)" vertex="1">
           <mxGeometry height="64" width="86" x="88" as="geometry">
             <mxRectangle height="64" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-296" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-296" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{12}\)" vertex="1">
           <mxGeometry height="64" width="88" x="174" as="geometry">
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
@@ -1495,7 +1495,7 @@
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-315" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-315" parent="6WMX3V-Sid9u19X9FfYC-293" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{1m}\)" vertex="1">
           <mxGeometry height="64" width="88" x="350" as="geometry">
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
@@ -1508,12 +1508,12 @@
             <mxRectangle height="62" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-287" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-287" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{21}\)" vertex="1">
           <mxGeometry height="62" width="86" x="88" as="geometry">
             <mxRectangle height="62" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-288" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-288" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{22}\)" vertex="1">
           <mxGeometry height="62" width="88" x="174" as="geometry">
             <mxRectangle height="62" width="88" as="alternateBounds" />
           </mxGeometry>
@@ -1523,7 +1523,7 @@
             <mxRectangle height="62" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-316" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-316" parent="6WMX3V-Sid9u19X9FfYC-285" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{2m}\)" vertex="1">
           <mxGeometry height="62" width="88" x="350" as="geometry">
             <mxRectangle height="62" width="88" as="alternateBounds" />
           </mxGeometry>
@@ -1564,12 +1564,12 @@
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-291" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-291" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{n1}\)" vertex="1">
           <mxGeometry height="64" width="86" x="88" as="geometry">
             <mxRectangle height="64" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-292" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-292" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{n2}\)" vertex="1">
           <mxGeometry height="64" width="88" x="174" as="geometry">
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
@@ -1579,7 +1579,7 @@
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WMX3V-Sid9u19X9FfYC-318" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_1\)" vertex="1">
+        <mxCell id="6WMX3V-Sid9u19X9FfYC-318" parent="6WMX3V-Sid9u19X9FfYC-289" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=19;" value="\(Q_{nm}\)" vertex="1">
           <mxGeometry height="64" width="88" x="350" as="geometry">
             <mxRectangle height="64" width="88" as="alternateBounds" />
           </mxGeometry>
