@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R7AOJ8HajMrCOvYtmSFQ" name="第 4 页">
-    <mxGraphModel dx="940" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
         <mxCell id="4amYFvrx_f7_FAUjgBX4-21" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-12" parent="1" style="rounded=1;fillColor=#FFE6CC;fontSize=16;" value="深度强化学习算法滚动寻优&#xa;目标函数：" vertex="1">
+        <mxCell id="op6qOcrFw75MDyzrnJig-12" parent="1" style="rounded=1;fillColor=#FFE6CC;fontSize=16;" value="调用深度强化学习算法求解器滚动寻优&#xa;目标函数：" vertex="1">
           <mxGeometry height="120" width="400" x="897.5" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-3" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -286,8 +286,23 @@
         <mxCell id="4amYFvrx_f7_FAUjgBX4-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;用户需求信息&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;SOC/离站时间/目标电量&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="210" x="995" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="4amYFvrx_f7_FAUjgBX4-24" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;充电功率下发与滚动优化控制&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;EMS→充电桩→状态反馈&lt;/span&gt;" vertex="1">
           <mxGeometry height="110" width="280" x="957.5" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="4amYFvrx_f7_FAUjgBX4-25" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1098" y="1850" />
+              <mxPoint x="1550" y="1850" />
+              <mxPoint x="1550" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4amYFvrx_f7_FAUjgBX4-23" parent="1" style="rounded=1;fillColor=#D9EAD3;fontSize=16;" value="控制时域步进&#xa;\(t=t+\delta t\)" vertex="1">
+          <mxGeometry height="80" width="260" x="967.5" y="1730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
