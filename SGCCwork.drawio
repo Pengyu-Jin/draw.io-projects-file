@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R7AOJ8HajMrCOvYtmSFQ" name="第 4 页">
-    <mxGraphModel dx="1765" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,13 +245,13 @@
         <mxCell id="4amYFvrx_f7_FAUjgBX4-20" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="op6qOcrFw75MDyzrnJig-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-11" parent="1" style="rounded=1;fillColor=#F8CECC;fontSize=16;" value="模式Ⅱ：资源受限模式&#xa;Preq ＞ Pavailable&#xa;满意度驱动动态功率分配" vertex="1">
+        <mxCell id="op6qOcrFw75MDyzrnJig-11" parent="1" style="rounded=1;fillColor=#F8CECC;fontSize=16;" value="模式Ⅱ：时空协调多维优化控制&#xa;Preq ＞ Pavailable&#xa;再满足100%同时率和充电安全边界的前提下：&#xa;基于最大化满意度驱动动态功率分配" vertex="1">
           <mxGeometry height="130" width="395" x="902.5" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-21" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-12" parent="1" style="rounded=1;fillColor=#FFE6CC;fontSize=16;" value="多目标协调优化&#xa;max(用户满意度 + 同时率 + DER利用率)" vertex="1">
+        <mxCell id="op6qOcrFw75MDyzrnJig-12" parent="1" style="rounded=1;fillColor=#FFE6CC;fontSize=16;" value="深度强化学习算法滚动寻优&#xa;目标函数：" vertex="1">
           <mxGeometry height="120" width="400" x="897.5" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-3" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
