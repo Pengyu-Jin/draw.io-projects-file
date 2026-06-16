@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R7AOJ8HajMrCOvYtmSFQ" name="第 4 页">
-    <mxGraphModel dx="1375" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,28 +217,27 @@
         <mxCell id="op6qOcrFw75MDyzrnJig-1" parent="1" style="text;html=1;strokeColor=none;fontSize=18;fontStyle=1" value="基于安全边界约束与用户满意度驱动的台区充电负荷协同优化控制框架" vertex="1">
           <mxGeometry height="40" width="1100" x="600" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="4amYFvrx_f7_FAUjgBX4-12" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="op6qOcrFw75MDyzrnJig-9" value="">
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-11" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="op6qOcrFw75MDyzrnJig-8" parent="1" style="rounded=1;fillColor=#D9D2E9;fontSize=16;" value="源-网-荷-储协同优化层&#xa;计算可用充电容量 Pavailable = Pgrid + Ppv + Pess − Pload" vertex="1">
           <mxGeometry height="90" width="540" x="830" y="782" as="geometry" />
         </mxCell>
-        <mxCell id="4amYFvrx_f7_FAUjgBX4-13" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Mjw_V1UIfobOlpvUncLv-5">
+        <mxCell id="4amYFvrx_f7_FAUjgBX4-13" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Mjw_V1UIfobOlpvUncLv-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925.1143790849674" y="1030.0588235294117" as="sourcePoint" />
             <mxPoint x="640" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4amYFvrx_f7_FAUjgBX4-14" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="op6qOcrFw75MDyzrnJig-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-13" connectable="0" parent="4amYFvrx_f7_FAUjgBX4-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.1476" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-9" parent="1" style="rhombus;fillColor=#FFF2CC;fontSize=16;" value="运行模式判别：&#xa;\(\alpha\)&#xa;总需求功率 Preq 是否超过可用容量 Pavailable" vertex="1">
-          <mxGeometry height="180" width="350" x="925" y="940" as="geometry" />
-        </mxCell>
-        <mxCell id="Mjw_V1UIfobOlpvUncLv-4" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-11" parent="1" style="rounded=1;fillColor=#F8CECC;fontSize=16;" value="模式Ⅱ：时空协调多维优化控制&#xa;Preq ＞ Pavailable&#xa;再满足100%同时率和充电安全边界的前提下：&#xa;基于最大化满意度驱动动态功率分配" vertex="1">
-          <mxGeometry height="130" width="395" x="902.5" y="1200" as="geometry" />
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-15" connectable="0" parent="4amYFvrx_f7_FAUjgBX4-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;YES&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1723" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-21" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-17">
           <mxGeometry relative="1" as="geometry">
@@ -313,6 +312,23 @@
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;模式Ⅰ：容量充裕模式&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} \le P_{available} \)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;全功率充电&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="247.5" x="520" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-9" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;模式Ⅱ：时空协调多维优化控制&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} &amp;gt; P_{available} \)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;在满足100%同时率和充电安全边界的前提下&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;基于最大化满意度驱动动态功率分配&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="437.5" x="881.25" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-12" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Mjw_V1UIfobOlpvUncLv-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-14" connectable="0" parent="Mjw_V1UIfobOlpvUncLv-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1685" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;运行模式判别：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} \le P_{available} \)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="360" x="920" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
