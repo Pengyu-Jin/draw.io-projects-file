@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" pages="3">
   <diagram name="Page-1" id="LO0IbS74aVSOtTkdYeiq">
     <mxGraphModel dx="1634" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,6 +52,70 @@
         <mxCell id="u4FmqP_CyHzq_SAG-YZG-8" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;输出调度指令&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="320" y="670" width="170" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LBjqti5D-N6-NBZHkDYw" name="第 2 页">
+    <mxGraphModel dx="1172" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P_V2snTeOQxfReFlKjKs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="电动汽车基础数据采集&#xa;• 出行规律&#xa;• 到离站时间&#xa;• 初始SOC&#xa;• 行驶里程" vertex="1">
+          <mxGeometry height="110" width="260" x="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="蒙特卡洛模拟预测&#xa;• EV接入概率建模&#xa;• 充放电需求生成&#xa;• 场景库构建&#xa;• 功率预测" vertex="1">
+          <mxGeometry height="120" width="260" x="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="EMS综合状态评估&#xa;• EV预测负荷&#xa;• 光伏出力预测&#xa;• 变压器负载率&#xa;• 线路负载率" vertex="1">
+          <mxGeometry height="120" width="260" x="480" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="承载力安全裕度判断" vertex="1">
+          <mxGeometry height="100" width="190" x="515" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="时域功率平移控制&#xa;• 峰谷转移&#xa;• 光伏跟踪充电&#xa;• 动态调整电流" vertex="1">
+          <mxGeometry height="120" width="260" x="210" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="空域动态限额分配&#xa;• 充电紧迫度计算&#xa;• 优先级排序&#xa;• 动态限功率" vertex="1">
+          <mxGeometry height="120" width="260" x="750" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="充电功率优化输出" vertex="1">
+          <mxGeometry height="80" width="260" x="480" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="配电网承载力提升&#xa;• 降低反向潮流&#xa;• 提高光伏消纳&#xa;• 提升安全裕度&#xa;• 增强分布式电源接纳能力" vertex="1">
+          <mxGeometry height="130" width="320" x="450" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-9" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-1" target="P_V2snTeOQxfReFlKjKs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-10" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-2" target="P_V2snTeOQxfReFlKjKs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-11" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-3" target="P_V2snTeOQxfReFlKjKs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-12" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-4" target="P_V2snTeOQxfReFlKjKs-5" value="接近上限">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-13" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-4" target="P_V2snTeOQxfReFlKjKs-6" value="接近上限">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-14" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-5" target="P_V2snTeOQxfReFlKjKs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-15" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-6" target="P_V2snTeOQxfReFlKjKs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_V2snTeOQxfReFlKjKs-16" edge="1" parent="1" source="P_V2snTeOQxfReFlKjKs-7" target="P_V2snTeOQxfReFlKjKs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A2mUlCfV9UiEPG2Ug2uv" name="第 3 页">
+    <mxGraphModel dx="1169" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
