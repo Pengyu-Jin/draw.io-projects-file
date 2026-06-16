@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R7AOJ8HajMrCOvYtmSFQ" name="第 4 页">
-    <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1948" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,8 +219,8 @@
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-13" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Mjw_V1UIfobOlpvUncLv-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="925.1143790849674" y="1030.0588235294117" as="sourcePoint" />
-            <mxPoint x="640" y="1110" as="targetPoint" />
+            <mxPoint x="925.1143790849674" y="790.0588235294117" as="sourcePoint" />
+            <mxPoint x="640" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-13" connectable="0" parent="4amYFvrx_f7_FAUjgBX4-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Y" vertex="1">
@@ -235,7 +235,7 @@
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-21" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1097.5" y="1510" as="sourcePoint" />
+            <mxPoint x="1097.5" y="1236.67" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-3" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
@@ -246,72 +246,64 @@
         <mxCell id="4amYFvrx_f7_FAUjgBX4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;fontStyle=1;" value="开始" vertex="1">
           <mxGeometry height="70" width="150" x="1025" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="4amYFvrx_f7_FAUjgBX4-10" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="op6qOcrFw75MDyzrnJig-4" value="">
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-19" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Mjw_V1UIfobOlpvUncLv-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-3" parent="1" style="rounded=1;fillColor=#D9EAD3;fontSize=16;" value="前置工作1：计算充电安全边界" vertex="1">
-          <mxGeometry height="80" width="260" x="970" y="530" as="geometry" />
-        </mxCell>
-        <mxCell id="Mjw_V1UIfobOlpvUncLv-17" edge="1" parent="1" source="op6qOcrFw75MDyzrnJig-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Mjw_V1UIfobOlpvUncLv-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="op6qOcrFw75MDyzrnJig-4" parent="1" style="rounded=1;fillColor=#D9EAD3;fontSize=16;" value="前置工作2：台区接入能力评估&#xa;变压器容量/线路裕度" vertex="1">
-          <mxGeometry height="80" width="260" x="970" y="650" as="geometry" />
+        <mxCell id="op6qOcrFw75MDyzrnJig-3" parent="1" style="rounded=1;fillColor=#D9EAD3;fontSize=16;" value="前置工作1：计算充电安全边界&#xa;前置工作2：台区接入能力评估&#xa;变压器容量/线路裕度" vertex="1">
+          <mxGeometry height="90" width="260" x="970" y="450" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-7" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="4amYFvrx_f7_FAUjgBX4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;DER实时状态&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;PV/ESS/V2G&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="210" x="995" y="230" as="geometry" />
+          <mxGeometry height="80" width="165" x="1017.5" y="230" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-9" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="op6qOcrFw75MDyzrnJig-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;用户需求信息&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;SOC/离站时间/目标电量&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="210" x="995" y="380" as="geometry" />
+          <mxGeometry height="80" width="210" x="995" y="340" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-24" edge="1" parent="1" source="4amYFvrx_f7_FAUjgBX4-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1097.4999999999995" y="1730" as="targetPoint" />
+            <mxPoint x="1097.4999999999995" y="1456.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;充电功率下发&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;\([P_{ch,1}(t), P_{ch,2}(t), ..., P_{ch,N}(t), P_{ESS}(t)]\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="352.5" x="922.5" y="1570" as="geometry" />
+          <mxGeometry height="110" width="352.5" x="922.5" y="1296.67" as="geometry" />
         </mxCell>
         <mxCell id="4amYFvrx_f7_FAUjgBX4-25" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4amYFvrx_f7_FAUjgBX4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1098" y="1850" />
-              <mxPoint x="1550" y="1850" />
+              <mxPoint x="1098" y="1570" />
+              <mxPoint x="1550" y="1570" />
               <mxPoint x="1550" y="285" />
+              <mxPoint x="1173" y="285" />
             </Array>
             <mxPoint x="1097.5294117647059" y="1810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i_sHZEW5Xl1U7t3cL4s9-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(28, 30, 33); font-family: &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Consolas, monospace; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;\(\sqrt{3×-1}+(1+x)^2\)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="1650" y="1770" as="geometry" />
-        </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;控制时域步进&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(t=t+\Delta t\)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;滚动返回采样&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="190" x="1002.5" y="1720" as="geometry" />
+          <mxGeometry height="80" width="190" x="1002.5" y="1446.67" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;调用深度强化学习算法求解器滚动寻优&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;目标函数：&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\max F(t) = \sum^N_{i=1} S_i(P_{ch,i}(t) - \beta\cdot\Delta P_{grid}(t))\)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;约束条件：&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\sum^N_{i=1}P_{ch,i}(t) \le P_{grid,max} + P_{PV}(t) + P_{ESS,dis}(t) - P_{base} \)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;\(0 \le P_{ch,i}(t) \le P_{bat,max}(t) \)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;\(SOC_{ess,min} \le SOC_{ess}(t) \le SOC_{ess,max}\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="560" x="820" y="1370" as="geometry" />
+          <mxGeometry height="160" width="560" x="820" y="1096.67" as="geometry" />
         </mxCell>
-        <mxCell id="Mjw_V1UIfobOlpvUncLv-7" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4amYFvrx_f7_FAUjgBX4-17">
+        <mxCell id="Mjw_V1UIfobOlpvUncLv-20" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4amYFvrx_f7_FAUjgBX4-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="644" y="1625" />
+              <mxPoint x="674" y="1352" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;模式Ⅰ：容量充裕模式&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} \le P_{available} \)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;全功率充电&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="247.5" x="520" y="1140" as="geometry" />
+          <mxGeometry height="90" width="247.5" x="550" y="926.67" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-9" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;模式Ⅱ：时空协调多维优化控制&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} &amp;gt; P_{available} \)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;在满足\(100\%\)同时率和充电安全边界的前提下&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;基于最大化满意度驱动动态功率分配&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="437.5" x="881.25" y="1200" as="geometry" />
+          <mxGeometry height="90" width="437.5" x="881.25" y="926.67" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-12" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Mjw_V1UIfobOlpvUncLv-8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -322,13 +314,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;运行模式判别：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{req} \le P_{available} \)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="360" x="920" y="940" as="geometry" />
+          <mxGeometry height="130" width="280" x="960" y="700" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-18" edge="1" parent="1" source="Mjw_V1UIfobOlpvUncLv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mjw_V1UIfobOlpvUncLv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mjw_V1UIfobOlpvUncLv-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;源-网-荷-储协同优化层&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px; white-space: nowrap;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;计算可用充电容量&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;\(P_{available} = P_{grid} + P_{pv} + P_{ess} − P_{load}\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="540" x="830" y="787" as="geometry" />
+          <mxGeometry height="80" width="540" x="830" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
